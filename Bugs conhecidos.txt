@@ -1,0 +1,2 @@
+- Ao atualizar uma série seu id muda para o próximo, mas ao tentar excluir 
+deve-se usar o id anterior.
