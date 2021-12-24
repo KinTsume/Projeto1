@@ -114,7 +114,7 @@
             Console.Write("Digite a descrição da série: ");
             string entradaDescricao = Console.ReadLine();
 
-            Serie atualizaSerie = new Serie(id: repositorio.ProximoId(),
+            Serie atualizaSerie = new Serie(id: indiceSerie,
                                         genero: (Genero)entradaGenero,
                                         titulo: entradaTitulo,
                                         ano: entradaAno,

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Serie\\DIO.Series\\DIO.Series.csproj": {}
+    "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Serie\\DIO.Series\\DIO.Series.csproj": {
+    "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Serie\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Series\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Serie\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\Usuário do Windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Serie\\DIO.Series\\obj\\",
+        "outputPath": "C:\\Users\\Usuário do Windows\\Documents\\Bootcamp Take Blip\\Projetos\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuário do Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
